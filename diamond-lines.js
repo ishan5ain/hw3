@@ -17,7 +17,6 @@ function draw() {
     line(startX1 - lCount, lCount + 10, startX2 + lCount, lCount + 10);
     lCount += 10;
   }
-
   while (lCount <= height / 2 && lCount > 0) {
     line(startX1 - lCount + 20, height - lCount + 10, startX2 + lCount - 20, height - lCount + 10);
     lCount -= 10;
