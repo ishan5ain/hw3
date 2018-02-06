@@ -1,7 +1,7 @@
 //easing
-//TO BE RUN ON p5js.zamfi.org
-//TO BE RUN ON p5js.zamfi.org
-//TO BE RUN ON p5js.zamfi.org
+//TO BE RUN ON p5js.zamfi.net
+//TO BE RUN ON p5js.zamfi.net
+//TO BE RUN ON p5js.zamfi.net
 
 var rate = 0.1;
 var x = 0;
